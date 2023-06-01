@@ -1,5 +1,5 @@
 # seminario-sys-web
-CRUD de livros em PHP, com Laravel e nse de dados MySql externo\
+CRUD de livros em PHP, com Laravel e base de dados MySql externo\
 \
 Siga as instruções abaixo para acessar.\
 \
