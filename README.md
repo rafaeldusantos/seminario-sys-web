@@ -98,4 +98,3 @@ E use o seguinte comando para compilar e iniciar a aplicação.
 php artisan serve --host=0.0.0.0
 ```
 A aplicação está pronta para você acessar através da URL http://localhost:8000
-
